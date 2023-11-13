@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Dhiwise-8b78ouvm",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Dhiwise-8b78ouvm": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Dhiwise-8b78ouvm",
+    "origin"
+  ]
+}
